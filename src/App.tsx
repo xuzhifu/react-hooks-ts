@@ -35,5 +35,4 @@ const App = () => {
     </HashRouter>
   );
 };
-//添加功能1
 export default App;
