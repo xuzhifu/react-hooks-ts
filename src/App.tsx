@@ -35,7 +35,6 @@ const App = () => {
     </HashRouter>
   );
 };
-
-// 测试代码功能6
-
+//新增功能4
+//新增功能5
 export default App;
